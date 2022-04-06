@@ -5,4 +5,4 @@ Uses both awk and sed to manipulate the data.
 
 Includes an optional switch to compare data between specific provinces or time intervals. 
 
-The raw data I used is included in the repository. 
+The data set used is included in the repository. 
